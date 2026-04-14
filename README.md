@@ -1,6 +1,6 @@
 # Google Dork Reconnaissance Tool
 
-<img width="1344" height="666" alt="image" src="https://github.com/user-attachments/assets/6e137f3e-a077-429d-b21c-03688e6e72b8" />
+<img width="1919" height="1097" alt="image" src="https://github.com/user-attachments/assets/48ae16a6-5697-4688-b221-d7f3bff34867" />
 
 
 An automated security reconnaissance tool that performs surface-level vulnerability assessment using Google dork queries through the SearchAPI.io service.
@@ -18,7 +18,7 @@ An automated security reconnaissance tool that performs surface-level vulnerabil
 
 ## Installation
 
-1. Save the script as `dork_scanner.py`
+1. Save the script as `gdork.py`
 2. Install dependencies:
 ```bash
 pip install -r requirements.txt
